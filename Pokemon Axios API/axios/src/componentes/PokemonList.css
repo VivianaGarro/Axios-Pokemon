@@ -1,0 +1,14 @@
+button{
+    background-color: gray;
+    color: white;
+    border: none;
+    font-size: large;
+    padding: 15px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+}
